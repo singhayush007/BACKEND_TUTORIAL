@@ -1,0 +1,11 @@
+{
+  "name": "backend_tutorial",
+  "version": "1.0.0",
+  "description": "This is my leaning series of backend ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Ayush Singh",
+  "license": "ISC"
+}
