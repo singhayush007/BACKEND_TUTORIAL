@@ -57,6 +57,24 @@ This repository contains my personal practice and learning projects for **Node.j
 
 ---
 
+## 📂 Folder Structure  
+
+```bash
+BACKEND_TUTORIAL/
+│
+├── Level 1/       # Basic Node.js setup and understanding of package.json  
+├── Level 2/       # Express server setup and routing fundamentals  
+├── Level 3/       # Middleware and request handling  
+├── Level 4/       # Working with MongoDB and Mongoose basics  
+├── Level 5/       # CRUD operations with database  
+├── Level 6/       # Authentication with JWT and bcrypt  
+├── Level 7/       # Advanced project — Authentication with File upload with Multer & Cloudinary  
+│   └── Backend/   # Contains controllers, models, routes, and configs  
+│
+├── Diagram.md     # Notes and visual references  
+└── README.md      # Project documentation
+
+
 ## 💡 Author  
 
 - **Ayush Singh**  
