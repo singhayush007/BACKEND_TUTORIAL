@@ -68,11 +68,14 @@ BACKEND_TUTORIAL/
 ├── Level 4/       # Working with MongoDB and Mongoose basics  
 ├── Level 5/       # CRUD operations with database  
 ├── Level 6/       # Authentication with JWT and bcrypt  
-├── Level 7/       # Advanced project — Authentication with File upload with Multer & Cloudinary  
-│   └── Backend/   # Contains controllers, models, routes, and configs  
+├── Level 7/       # Advanced Full-Stack Project — Authentication + File Upload (Multer & Cloudinary)  
+│   ├── Backend/  
+│   └── Frontend/  
 │
 ├── Diagram.md     # Notes and visual references  
 └── README.md      # Project documentation
+
+---
 
 
 ## 💡 Author  
